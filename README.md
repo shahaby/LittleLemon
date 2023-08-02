@@ -3,16 +3,25 @@ Greetings fellow backend developers. What's before you is my final project for t
 
 # API Endpoints
 /auth/users/
+
 /auth/token/login/
+
 /auth/token/logout/
 
+
 /api/menu-items/
+
 /api/menu-items/
-/api/menu-items/<int:pk>
-/api/menu-items/<int:pk>
+
 /api/menu-items/<int:pk>
 
+/api/menu-items/<int:pk>
+
+/api/menu-items/<int:pk>
+
+
 /bookings/tables/
+
 /bookings/tables/
 
 
